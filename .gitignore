@@ -1,0 +1,8 @@
+node_modules/
+dist/
+cdk.out/
+.env
+*.js.map
+coverage/
+.DS_Store
+cdk/node_modules/
